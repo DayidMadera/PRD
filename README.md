@@ -1,11 +1,11 @@
 ### PRD DE TIENDA AUTOMOTRIZ
 
-#problema
-La idea de nuestro proyecto es lograr una base de datos de un taller automotriz. 
+#Problema
+recopilar y ordenar informacion para la facil visualizacion de los mismos para tener un orden en la organizacion de clientes.
 
 1. El primer paso es hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes
-2. Guardar los datos en una nube 
-3. Hacer un programa para mostrar las compras de los clientes y aque horas se hizo
+2. Crear el formulario que ayude a rellenar los datos
+3. un programa que pase los datos del formulario a la base de datos
 
 Los servicios a ofrecer del taller son:
 - Lavado de carros
