@@ -1,12 +1,16 @@
 # PRD DE TIENDA AUTOMOTRIZ
 
 ## Problema
-recopilar y ordenar informacion para la facil visualizacion de los mismos para tener un orden en la organizacion de clientes.
+
 
 ## Solucion 
-1. El primer paso es hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes
-2. Crear el formulario que ayude a rellenar los datos
-3. un programa que pase los datos del formulario a la base de datos
+
+1. Crear el frontend donde se ve la pagina y se ven las seccion de los productos.
+2. Mostrar secciones donde se vean los productos personalmente.
+3. Hacer un carrito para poner los productos.
+4. Hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes.
+5. Crear el formulario que ayude a rellenar los datos.
+6. un programa que pase los datos del formulario a la base de datos.
 
 Los servicios a ofrecer del taller son:
 - Lavado de carros
@@ -15,7 +19,7 @@ Los servicios a ofrecer del taller son:
 - Suministrar aire comprimido a las ruedas del vehiculo
 - Modificaciones
 ## Objetivos de el estudiante
-Integrantes del proyecto:
+
 Dayid Esteban Madera Paez
 Juan David Martínez Perdomo 
 David Esteban Rivera Torres
