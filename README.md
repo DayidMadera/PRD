@@ -1,7 +1,8 @@
 # PRD DE TIENDA AUTOMOTRIZ
 
 ## Problema
-
+Se nesesit mover los datos de los clientes de la automotriz para poder facilitar su visulizacion 
+debera contener El nombre, Especificaciones del carro fecha de cuando entrego el carro y que servicio utilizo de la compañia
 
 ## Solucion 
 
@@ -12,12 +13,7 @@
 5. Crear el formulario que ayude a rellenar los datos.
 6. un programa que pase los datos del formulario a la base de datos.
 
-Los servicios a ofrecer del taller son:
-- Lavado de carros
-- Alineamientos
-- Reparaciones
-- Suministrar aire comprimido a las ruedas del vehiculo
-- Modificaciones
+
 ## Objetivos de el estudiante
 
 Dayid Esteban Madera Paez
