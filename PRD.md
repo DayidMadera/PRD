@@ -1,12 +1,12 @@
 # PRD DE TIENDA AUTOMOTRIZ
 
-## Problema
-Se nesesita mover los datos de los clientes de la automotriz para poder facilitar su visulizacion 
-debera contener El nombre, Especificaciones del carro fecha de cuando entrego el carro y que servicio utilizo de la compañia
+## Descripcion del proyecto.
+La automotriz necesita guardar los datos de los clientes: Fecha de entrega, modelo, datos del cliente, valor del servicio/producto
+
 
 ## Solucion 
 
-1. Crear el frontend donde se ve la pagina y se ven las seccion de los productos.
+1. Crear el FrontEnd donde se ve la pagina y se ven las seccion de los productos.
 2. Mostrar secciones donde se vean los productos personalmente.
 3. Hacer un carrito para poner los productos.
 4. Hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes.
