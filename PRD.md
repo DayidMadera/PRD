@@ -21,6 +21,23 @@ El tecnico Juancho en un día tuvo al rededor de 10 clientes, el tuvo que regist
 
 ~ Marcas: "texto"
 ~ Nombre: "texto"
+~ Correo: "texto"
+~ Telefono: "numero"
+~ Cantidad de pago: "numero"
+~ Dirección: "Texto/número"
+~ Tipo de pago: "Opciones"
+
+## Criterios de éxito
+Se puede registrar 10 ventas sin errores
+Al registrar un pago, la deuda disminuye
+Si cierro el programa y lo reabro, los datos siguen ahí
+El cálculo de ganancias del día es correcto
+
+## Limitaciones
+NO tiene acceso desde múltiples computadoras (solo una máquina)
+NO calcula Impuestos
+NO hace Envios
+NO realizar ventas sin clientes registrados  
 
 
 ## Solucion 
