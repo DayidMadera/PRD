@@ -1,5 +1,6 @@
 # crear el contenido del readme y colocar el repo de todos los integrantes del poryecto en una lista
 # TIENDA AUTOMOTRIZ
+La automotriz necesita guardar los datos de los clientes: Fecha de entrega, modelo, datos del cliente, valor del servicio/producto. Facilitando la administración y el manejo de datos.
 
 # INSTRUCCIONES 
 
