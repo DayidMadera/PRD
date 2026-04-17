@@ -5,7 +5,7 @@ La automotriz necesita guardar los datos de los clientes: Fecha de entrega, mode
 # INSTRUCCIONES 
 
 # USO
-
+Se utilizara el repositorio para tener una lista sobre las ventas y movientos de la automotriz haciendo que sea mas eficiente la visualizacion de datos
 # CONTIBUYENTES
 
 - Dayid Esteban Madera Paez(rama-linea)
